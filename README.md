@@ -8,12 +8,11 @@ A Little More About Me:
 ---
 ```javascript
 const isaacEmmanuelBakoshi = {
-  📢lookingFor: "Frontend developer job";
+  📢lookingFor: ["Frontend developer job"];
   🔭code: ["JavaScript", "HTML/CSS"];
-  💬askMeAbout: ["Problem Solving", "Football", "Content Creation", "Music"],
-  🌱challenge: "I hope to build my skills on other tools like React, Python and Ruby",
-  ⚡funFacts: ['I am willing and ready to advance in the tech world', 
-  'I am available for offers']
+  💬askMeAbout: ["Problem Solving", "Football", "Content Creation", "Music"];
+  🌱challenge: ["I hope to build my skills on other tools like React, Python and Ruby"];
+  ⚡funFacts: ['I am willing and ready to advance in the tech world','I am available for offers'];
 }
 ```
 ---
